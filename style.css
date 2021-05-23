@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue ;
+}
+a:hover{
+    color: gold;
+}
+header a{
+    background-color: white;
+    border-radius:;
+    color: royalblue;
+    box-shadow: 3px 3px 3px 5px gray; 
+}
+
+
+
+
